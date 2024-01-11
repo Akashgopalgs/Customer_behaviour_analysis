@@ -4,8 +4,6 @@
 
 Customer Behavior Analysis Using Python :
 
-https://colab.research.google.com/drive/1_ck_QRATjCjVbZPQ1km3oDmgSGIuCBwt?usp=sharing
-
 
 Customer Behavior Analysis is a process that involves examining and understanding how customers interact with a business, product, or service. This analysis helps organizations make informed decisions, tailor their strategies, and enhance customer experiences.
 
@@ -45,4 +43,5 @@ Using Seaborn and plotly visualized the data
 
 **Conclusion**
 
-From the given dataset Male has purchased more than female.Customers purchased product from mobile than any other devises.Most products had delivered to delhi and most product browsed from kolkata.18 year old women purchased and browsed more than other women.men higher purchasing at the age group of 18,21,22.male have higher purchasing and browsing time than female
+From the given dataset Male has purchased more than female.Customers purchased product from mobile than any other devises.Most products had delivered to delhi and most product browsed from kolkata.18 year old women purchased and browsed more than other women.men higher purchasing at the age group of 18,21,22.male have higher purchasing and browsing time than female.
+For a detailed exploration of the project and its insights, you can check the Google Colab notebook [here](https://colab.research.google.com/drive/1_ck_QRATjCjVbZPQ1km3oDmgSGIuCBwt?usp=sharing)
